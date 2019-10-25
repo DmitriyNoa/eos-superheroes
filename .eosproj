@@ -1,0 +1,21 @@
+{
+  "main": "contracts/src/superheroes.cpp",
+  "contract": "superheroes",
+  "include": "",
+  "resource": "",
+  "cdt": "cmd",
+  "output": "",
+  "scripts": {
+    "build": ""
+  },
+  "deploy": {
+    "target": "both",
+    "mainnet": "",
+    "kylin": "",
+    "jungle": "",
+    "local": ""
+  },
+  "test": {
+    "npmClient": ""
+  }
+}
