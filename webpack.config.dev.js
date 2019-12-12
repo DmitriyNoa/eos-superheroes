@@ -10,6 +10,7 @@ const envKeys = Object.keys(env).reduce((prev, next) => {
   return prev;
 }, {});
 
+
 export default {
   resolve: {
     extensions: ['*', '.js', '.jsx', '.json'],
